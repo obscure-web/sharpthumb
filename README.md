@@ -65,6 +65,7 @@ Modify the path where cached images are stored. By default ther are stored in th
 var cacheDir = path.join(__dirname, '/public/.cache');
 app.use(sharpthumb.static(path.join(__dirname, '/public'), {cacheDir: cacheDir}));
 
+```
 
 ### serveStatic
 
