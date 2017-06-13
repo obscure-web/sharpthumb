@@ -1,0 +1,38 @@
+{
+  "name": "sharpthumb",
+  "version": "0.0.1",
+  "description": "On the fly, image resizing middleware for express.",
+  "author": "bainweb <bain@bainweb.com",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bainweb/sharpthumb.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bainweb/sharpthumb/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/bainweb/sharpthumb/raw/master/LICENSE"
+    }
+  ],
+  "keywords": [
+    "thumb",
+    "thumbnail",
+    "image",
+    "sharp",
+    "sharpie",
+    "resize",
+    "cache",
+    "middleware"
+  ],
+  "dependencies": {
+    "mkdirp": "^0.5.1",
+    "path": "^0.12.7",
+    "q": "^1.5.0",
+    "q-io": "^1.13.4",
+    "sharp": "^0.18.1"
+  }
+}
