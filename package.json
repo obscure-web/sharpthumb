@@ -1,6 +1,6 @@
 {
   "name": "sharpthumb",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "On the fly, image resizing middleware for express.",
   "author": "bainweb <bain@bainweb.com",
   "main": "index.js",
