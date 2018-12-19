@@ -1,6 +1,6 @@
 {
   "name": "sharpthumb",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "On the fly, image resizing middleware for express.",
   "author": "obscure-web",
   "main": "index.js",
