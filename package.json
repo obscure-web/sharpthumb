@@ -2,20 +2,20 @@
   "name": "sharpthumb",
   "version": "0.0.2",
   "description": "On the fly, image resizing middleware for express.",
-  "author": "bainweb <bain@bainweb.com",
+  "author": "obscure-web",
   "main": "index.js",
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "https://github.com/bainweb/sharpthumb.git"
+    "url": "https://github.com/obscure-web/sharpthumb.git"
   },
   "bugs": {
-    "url": "https://github.com/bainweb/sharpthumb/issues"
+    "url": "https://github.com/obscure-web/sharpthumb/issues"
   },
   "licenses": [
     {
       "type": "MIT",
-      "url": "http://github.com/bainweb/sharpthumb/raw/master/LICENSE"
+      "url": "http://github.com/obscure-web/sharpthumb/raw/master/LICENSE"
     }
   ],
   "keywords": [
